@@ -1,0 +1,36 @@
+
+img {
+    width: 650px;
+
+}
+
+body{
+    background-color: rgb(199, 213, 199);
+    align-content: center;
+    text-align:center;
+    font-family: 'Open Sans', Courier, monospace;
+    font-size: 1em;
+}
+
+h1 {
+    font-family: 'Open Sans', Courier, monospace;
+    font-size: 2em;
+    vertical-align: middle;
+    color: rgb(62, 62, 62);
+}
+
+
+
+.basic {
+    background-color: white;
+    border: 2px solid black;
+    text-align: left;
+
+}
+
+.nav{
+    background-color: white;
+    color: rgb(64, 63, 63);
+    border: 2px solid black;
+    text-align: center;
+}
